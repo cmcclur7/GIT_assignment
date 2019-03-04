@@ -1,4 +1,4 @@
-New first line is this
+modified New first line is this
 This is the initial contents
 of the first file that
 comprises the project.
